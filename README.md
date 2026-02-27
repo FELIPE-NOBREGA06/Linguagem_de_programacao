@@ -1,4 +1,5 @@
 # ☕ Linguagem de Programação — Java
+# Engenharia de software 25/1
 
 > Repositório criado para organizar os estudos, exercícios e projetos desenvolvidos durante a disciplina de **Linguagem de Programação** com foco em **Java**, cursada na faculdade.
 
