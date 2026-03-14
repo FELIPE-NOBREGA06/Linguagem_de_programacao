@@ -6,9 +6,13 @@ public class OperadoresRelacionais {
         int a = 10;
         int b = 10;
 
-        boolean resultado = a  != b;
+        boolean resultado = a  >= b;
 
         System.out.println(resultado);
+
+        boolean resultado1 = 4 == 4;
+        System.out.println(resultado1);
+
 
 
 
